@@ -8,6 +8,6 @@ print
 variables 
 function
 conditions
-loops
+
 exit status & redirectors quotes
 sed editor 
